@@ -163,7 +163,7 @@ print("Uppercase string:", uppercase_string)
 
 #ASCII, hex() and oct():
 char = "n"
-num=36
+num=16
 print("ASCII value for char is: ",ord(char))
 print("Hexadecimal is: ",hex(num))
 print("Octal value: ",oct(num))
